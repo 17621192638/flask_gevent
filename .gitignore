@@ -1,0 +1,12 @@
+
+conf/db(服务器配置).ini
+
+db/mysql_ds_get/__pycache__/
+
+utils/__pycache__/
+
+web_api/service/__pycache__/
+
+.idea/
+
+conf/db.ini
